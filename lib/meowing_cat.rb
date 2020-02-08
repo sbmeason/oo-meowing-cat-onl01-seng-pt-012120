@@ -8,9 +8,7 @@ maru.name = "Maru"
 
 puts maru.name 
 
-maru = Cat.new
-maru.meow = "meow!"
-
-puts maru.meow
+class Cat
+  def meow
 
 
