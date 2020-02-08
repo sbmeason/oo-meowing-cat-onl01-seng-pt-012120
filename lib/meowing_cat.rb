@@ -3,7 +3,7 @@ class Cat
   
 end
 
-name = Cat.new
-name.meow = "meow!"
+maru = Cat.new
+maru.meow = "meow!"
 
-puts name.meow 
+puts maru.meow 
