@@ -10,5 +10,10 @@ puts maru.name
 
 class Cat
   def meow
+    puts "meow!"
+  end
+end
+
+puts maru.meow 
 
 
